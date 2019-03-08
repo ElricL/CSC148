@@ -1,4 +1,6 @@
-# CSC148
+# UofT - CSC148
+
+Main Language: Python
 
 Abstract data types and data structures for implementing them. 
 Linked data structures. Encapsulation and information-hiding. 
